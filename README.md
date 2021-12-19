@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 💻&nbsp; Learning both front and back-end devolpment
 - 🔥&nbsp; Currently working as a react developer
 - 💪&nbsp; After coding I enjoy gym sessions
-- 🌱&nbsp; Willing to learn new tech that makes me a better developer
+- 🌱&nbsp; Willing to learn new things to become a better developer
 
 <h3> 💞️&nbsp; Worked with: </h3>
 
