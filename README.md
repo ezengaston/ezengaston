@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 - ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL&logoColor=white)
+- ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=Sass)
 
 <br/>
 
