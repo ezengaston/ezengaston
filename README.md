@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 - ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=Sass)
 - ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=Svelte)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 <br/>
 
