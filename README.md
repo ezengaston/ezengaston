@@ -9,10 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 👨‍💻&nbsp; About me: </h3>
 
-- 💻&nbsp; Learning both front and back-end devolpment
-- 🔥&nbsp; Currently working as a react developer
-- 💪&nbsp; After coding I enjoy gym sessions
-- 🌱&nbsp; Willing to learn new things to become a better developer
+A Full Stack React Developer building complex web applications since 2021. I specialize in developing modern, responsive web applications using the latest front-end and back-end technologies. I am passionate about using my skills to solve complex problems and create innovative solutions.
+
+In my free time I enjoy gym sessions. I am constantly learning and staying up-to-date with the latest technologies. Currently learning Elixir.
+
+If you're looking for a Full Stack React Developer with a passion for creating scalable, responsive, and innovative web applications, feel free to send me an email at [ezen.gaston@gmail.com](mailto:ezen.gaston@gmail.com), and I will get back to you as soon as possible.
 
 <h3> 💞️&nbsp; Worked with: </h3>
 
