@@ -34,6 +34,7 @@ If you're looking for a Full Stack React Developer with a passion for creating s
 - ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs)
 - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 - ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
 
 <br/>
 
