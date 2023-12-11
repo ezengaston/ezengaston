@@ -35,7 +35,8 @@ If you're looking for a Full Stack React Developer with a passion for creating s
 - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 - ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
+- ![SolidJS](https://img.shields.io/badge/-SolidJS-333333?style=flat&logo=solid&logoColor=446B9E)
 
 <br/>
 
