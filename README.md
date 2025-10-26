@@ -13,8 +13,6 @@ A Full Stack React Developer building complex web applications since 2021. I spe
 
 In my free time I enjoy gym sessions. I am constantly learning and staying up-to-date with the latest technologies. Currently learning Elixir.
 
-If you're looking for a Full Stack React Developer with a passion for creating scalable, responsive, and innovative web applications, feel free to send me an email at [ezen.gaston@gmail.com](mailto:ezen.gaston@gmail.com), and I will get back to you as soon as possible.
-
 <h3> 💞️&nbsp; Worked with: </h3>
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
